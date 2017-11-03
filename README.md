@@ -5,8 +5,8 @@ Simple Boilerplate for a node server.
 ## Getting Started
 
 Checkout this repo, install dependecies, then start the gulp procces with foolowing
-> git clone https://github.com/fmcortes/ServerBoilerplate.git
-> cd ServerBoilerPlate
+git clone https://github.com/fmcortes/ServerBoilerplate.git
+cd ServerBoilerPlate
 
 ### Prerequisites
 
@@ -15,8 +15,8 @@ Checkout this repo, install dependecies, then start the gulp procces with foolow
 
 ### Installing
 
-> npm install
-> npm run dev
+npm install
+npm run dev
 
 ## Built With
 
