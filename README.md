@@ -5,9 +5,10 @@ Simple Boilerplate for a node server.
 ## Getting Started
 
 Checkout this repo, install dependecies, then start the gulp procces with foolowing
-git clone https://github.com/fmcortes/ServerBoilerplate.git
-cd ServerBoilerPlate
-
+```
+> git clone https://github.com/fmcortes/ServerBoilerplate.git
+> cd ServerBoilerPlate
+```
 ### Prerequisites
 
 [MongoDB](https://docs.mongodb.com/tutorials/)
