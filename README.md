@@ -15,9 +15,10 @@ Checkout this repo, install dependecies, then start the gulp procces with foolow
 
 
 ### Installing
-
-npm install
-npm run dev
+```
+> npm install
+> npm run dev
+```
 
 ## Built With
 
